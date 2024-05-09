@@ -7,14 +7,17 @@ sites:
     check: "tcp-ping"
     url: $QUAVER_API_URL
     port: $QUAVER_API_PORT
+    icon: https://raw.githubusercontent.com/ZPTXDev/status/master/assets/quaver.png
   - name: Quaver Dev
     check: "tcp-ping"
     url: $QUAVER_DEV_API_URL
     port: $QUAVER_DEV_API_PORT
+    icon: https://raw.githubusercontent.com/ZPTXDev/status/master/assets/quaver-dev.png
   - name: Lavalink
     check: "tcp-ping"
     url: $LAVALINK_API_URL
     port: $LAVALINK_API_PORT
+    icon: https://raw.githubusercontent.com/lavalink-devs/Lavalink/master/branding/lavalink.svg
   - name: zapteryx.com
     url: https://zapteryx.com
   - name: zptx.dev
