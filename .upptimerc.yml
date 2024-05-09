@@ -46,5 +46,15 @@ status-website:
   theme: night
   faviconSvg: https://raw.githubusercontent.com/ZPTXDev/status/master/assets/zptx-logo.svg
 
+i18n:
+  allSystemsOperational: All services report as healthy.
+  activeIncidentSummary: Started at $DATE with $POSTS update(s)
+  incidentOpenedAt: Started at
+  incidentClosedAt: Ended at
+  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS update(s)
+  scheduledMaintenanceSummaryStarted: Started at $DATE, lasting for $DURATION minute(s)
+  scheduledMaintenanceSummaryStarts: Starts at $DATE, lasts for $DURATION minute(s)
+  durationMin: $DURATION minute(s)
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
