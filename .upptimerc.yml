@@ -43,7 +43,7 @@ status-website:
       href: /
     - title: Main Site
       href: https://zptx.dev
-  theme: dark
+  theme: night
   faviconSvg: https://raw.githubusercontent.com/ZPTXDev/status/master/assets/zptx-logo.svg
 
 # Upptime also supports notifications, assigning issues, and more
