@@ -58,9 +58,9 @@
     "url": "https://zapteryx.com",
     "icon": "https://icons.duckduckgo.com/ip3/zapteryx.com.ico",
     "slug": "zapteryx-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +69,18 @@
     "timeWeek": 136,
     "timeMonth": 149,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-02": 0
+    }
   },
   {
     "name": "zptx.dev",
     "url": "https://zptx.dev",
     "icon": "https://icons.duckduckgo.com/ip3/zptx.dev.ico",
     "slug": "zptx-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +89,8 @@
     "timeWeek": 201,
     "timeMonth": 194,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-02": 0
+    }
   }
 ]
