@@ -58,19 +58,19 @@
     "url": "https://zapteryx.com",
     "icon": "https://icons.duckduckgo.com/ip3/zapteryx.com.ico",
     "slug": "zapteryx-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 162,
-    "timeWeek": 136,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 148,
+    "timeDay": 143,
+    "timeWeek": 135,
+    "timeMonth": 148,
+    "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-06-02": 0
+      "2024-06-02": 10
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://zptx.dev",
     "icon": "https://icons.duckduckgo.com/ip3/zptx.dev.ico",
     "slug": "zptx-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 192,
-    "timeWeek": 201,
-    "timeMonth": 194,
-    "timeYear": 194,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 192,
+    "timeDay": 164,
+    "timeWeek": 193,
+    "timeMonth": 192,
+    "timeYear": 192,
     "dailyMinutesDown": {
-      "2024-06-02": 0
+      "2024-06-02": 10
     }
   }
 ]
