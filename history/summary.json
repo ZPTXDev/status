@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 97,
-    "timeWeek": 137,
+    "timeDay": 111,
+    "timeWeek": 139,
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 96,
-    "timeWeek": 137,
-    "timeMonth": 119,
-    "timeYear": 119,
+    "time": 118,
+    "timeDay": 112,
+    "timeWeek": 139,
+    "timeMonth": 118,
+    "timeYear": 118,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 96,
-    "timeWeek": 137,
+    "timeDay": 113,
+    "timeWeek": 139,
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {}
@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/zapteryx.com.ico",
     "slug": "zapteryx-com",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 148,
-    "timeDay": 143,
-    "timeWeek": 135,
-    "timeMonth": 148,
-    "timeYear": 148,
-    "dailyMinutesDown": {
-      "2024-06-02": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 147,
+    "timeDay": 121,
+    "timeWeek": 139,
+    "timeMonth": 147,
+    "timeYear": 147,
+    "dailyMinutesDown": {}
   },
   {
     "name": "zptx.dev",
@@ -79,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zptx.dev.ico",
     "slug": "zptx-dev",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 192,
-    "timeDay": 164,
-    "timeWeek": 193,
-    "timeMonth": 192,
-    "timeYear": 192,
-    "dailyMinutesDown": {
-      "2024-06-02": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 189,
+    "timeDay": 119,
+    "timeWeek": 185,
+    "timeMonth": 189,
+    "timeYear": 189,
+    "dailyMinutesDown": {}
   }
 ]
