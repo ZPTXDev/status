@@ -4,9 +4,9 @@
     "url": "$QUAVER_API_URL",
     "icon": "https://raw.githubusercontent.com/ZPTXDev/status/master/assets/quaver.png",
     "slug": "quaver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 129,
     "timeMonth": 126,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-21": 0
+    }
   },
   {
     "name": "Quaver Dev",
     "url": "$QUAVER_DEV_API_URL",
     "icon": "https://raw.githubusercontent.com/ZPTXDev/status/master/assets/quaver-dev.png",
     "slug": "quaver-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 128,
     "timeMonth": 126,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-21": 0
+    }
   },
   {
     "name": "Lavalink",
@@ -59,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/zapteryx.com.ico",
     "slug": "zapteryx-com",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 142,
     "timeDay": 135,
     "timeWeek": 147,
     "timeMonth": 132,
     "timeYear": 142,
-    "dailyMinutesDown": {
-      "2024-06-21": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "zptx.dev",
@@ -79,18 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zptx.dev.ico",
     "slug": "zptx-dev",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 175,
     "timeDay": 198,
     "timeWeek": 164,
     "timeMonth": 175,
     "timeYear": 175,
-    "dailyMinutesDown": {
-      "2024-06-21": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
