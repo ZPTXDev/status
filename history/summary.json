@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/ZPTXDev/status/master/assets/quaver.png",
     "slug": "quaver",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.60%",
+    "uptimeDay": "82.38%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.60%",
     "time": 121,
-    "timeDay": 158,
-    "timeWeek": 129,
-    "timeMonth": 126,
+    "timeDay": 0,
+    "timeWeek": 130,
+    "timeMonth": 125,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2024-06-21": 0
+      "2024-06-21": 254
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://raw.githubusercontent.com/ZPTXDev/status/master/assets/quaver-dev.png",
     "slug": "quaver-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.60%",
+    "uptimeDay": "82.37%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.60%",
     "time": 121,
-    "timeDay": 157,
-    "timeWeek": 128,
-    "timeMonth": 126,
+    "timeDay": 0,
+    "timeWeek": 130,
+    "timeMonth": 125,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2024-06-21": 0
+      "2024-06-21": 254
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 158,
-    "timeWeek": 128,
-    "timeMonth": 126,
-    "timeYear": 121,
+    "time": 120,
+    "timeDay": 92,
+    "timeWeek": 124,
+    "timeMonth": 123,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 135,
-    "timeWeek": 147,
-    "timeMonth": 132,
-    "timeYear": 142,
+    "time": 147,
+    "timeDay": 270,
+    "timeWeek": 179,
+    "timeMonth": 138,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 198,
-    "timeWeek": 164,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "time": 179,
+    "timeDay": 275,
+    "timeWeek": 193,
+    "timeMonth": 168,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   }
 ]
