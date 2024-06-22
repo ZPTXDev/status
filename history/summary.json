@@ -44,19 +44,19 @@
     "url": "$LAVALINK_API_URL",
     "icon": "https://raw.githubusercontent.com/lavalink-devs/Lavalink/master/branding/lavalink.svg",
     "slug": "lavalink",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 92,
-    "timeWeek": 124,
-    "timeMonth": 123,
-    "timeYear": 120,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "89.70%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.77%",
+    "time": 118,
+    "timeDay": 57,
+    "timeWeek": 112,
+    "timeMonth": 120,
+    "timeYear": 118,
     "dailyMinutesDown": {
-      "2024-06-22": 0
+      "2024-06-22": 148
     }
   },
   {
