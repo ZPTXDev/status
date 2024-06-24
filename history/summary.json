@@ -12,8 +12,8 @@
     "uptimeYear": "99.61%",
     "time": 121,
     "timeDay": 0,
-    "timeWeek": 136,
-    "timeMonth": 126,
+    "timeWeek": 147,
+    "timeMonth": 127,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2024-06-21": 254
@@ -32,8 +32,8 @@
     "uptimeYear": "99.61%",
     "time": 121,
     "timeDay": 0,
-    "timeWeek": 136,
-    "timeMonth": 126,
+    "timeWeek": 147,
+    "timeMonth": 127,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2024-06-21": 254
@@ -46,15 +46,15 @@
     "slug": "lavalink",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "89.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.77%",
-    "time": 116,
-    "timeDay": 20,
-    "timeWeek": 101,
-    "timeMonth": 118,
-    "timeYear": 116,
+    "time": 115,
+    "timeDay": 18,
+    "timeWeek": 92,
+    "timeMonth": 116,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2024-06-22": 148
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 96,
-    "timeWeek": 173,
-    "timeMonth": 139,
+    "timeDay": 139,
+    "timeWeek": 175,
+    "timeMonth": 140,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 149,
-    "timeWeek": 194,
-    "timeMonth": 167,
+    "timeDay": 179,
+    "timeWeek": 204,
+    "timeMonth": 168,
     "timeYear": 178,
     "dailyMinutesDown": {}
   }
