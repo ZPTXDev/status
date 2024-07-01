@@ -24,7 +24,7 @@
     "url": "$QUAVER_DEV_API_URL",
     "icon": "https://raw.githubusercontent.com/ZPTXDev/status/master/assets/quaver-dev.png",
     "slug": "quaver-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2024-07-01": 0,
       "2024-06-21": 254
     }
   },
